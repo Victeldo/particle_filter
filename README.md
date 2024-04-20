@@ -1,7 +1,7 @@
-# CS 141 Homework 2: Particle Filters
+# Particle Filter Implementation
 ## By Prithvi Shahani
 
-This is the README for the Particle Filter homework for CS141 Spring 2024 Tufts University
+This is the README for the Particle Filter
 
 
 ## Requisites + SETUP
@@ -41,7 +41,9 @@ cs141_hw2.pdf (writeup)
 
 demo.mp4 (extra credit demonstration of particle filter in action)
 
-MarioMap.pngCityMap.pngBayMap.png
+MarioMap.png
+CityMap.png
+BayMap.png
 
 figures folder has the following files:
 Figure 2: avg 100 trials, bay map, color histogram + systematic resampling
